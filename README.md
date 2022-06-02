@@ -1,2 +1,2 @@
 # W3-Band
-A simple web using basic HEML and CSS 
+A simple web using basic HTML and CSS 
